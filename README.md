@@ -1,1 +1,1 @@
-# college-of-scince-publication-platform
+academic-publications
